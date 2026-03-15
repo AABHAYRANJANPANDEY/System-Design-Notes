@@ -25,3 +25,17 @@ system-design-notes
 ## 🎯 Goal
 
 To build a simple reference guide for developers preparing for **software engineering interviews and system design concepts**.
+
+## 💡 Badges
+![GitHub stars](https://img.shields.io/github/stars/AABHAYRANJANPANDEY/System-Design-Notes?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AABHAYRANJANPANDEY/System-Design-Notes?style=social)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+## 🚀 Future Topics
+
+- API Gateway
+- Message Queues
+- CAP Theorem
+- Consistent Hashing
+- Rate Limiting
+- Event Driven Architecture
